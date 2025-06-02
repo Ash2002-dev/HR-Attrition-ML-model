@@ -47,19 +47,12 @@ Build and evaluate predictive models that can determine whether an employee is l
 
 - Employees working **OverTime** are more likely to leave.
 - **JobSatisfaction** and **EnvironmentSatisfaction** play significant roles.
-- **YearsAtCompany** and **WorkLifeBalance** are also important predictors.
+- **YearsAtCompany** and **WorkLifeBalance** are also important predictors.   
 
 ---
 
-## 🚀 Getting Started
+### 📬 Contact
 
-### 1. Clone the repository
-```bash
-git clone https://github.com/your-username/hr-attrition-prediction.git
-cd hr-attrition-prediction
----
+- **📧 Email**: **ashishhalijol2002@gmail.com**  
+- **🔗 LinkedIn**: **[www.linkedin.com/in/ashish-halijol-1b1190216](https://www.linkedin.com/in/ashish-halijol-1b1190216)**
 
-## 📬 **Contact**
-
-- **📧 Email**: **  ashishhalijol2002@gmail.com  **  
-- **🔗 LinkedIn**: **  www.linkedin.com/in/ashish-halijol-1b1190216  **
